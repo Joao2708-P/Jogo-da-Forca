@@ -1,0 +1,10 @@
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.exe.config
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.exe
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.pdb
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csprojAssemblyReference.cache
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.FrmFunc.resources
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.Properties.Resources.resources
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csproj.GenerateResource.cache
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csproj.CoreCompileInputs.cache
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.exe
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.pdb

@@ -1,0 +1,40 @@
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\bin\Debug\apForca.exe.config
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\bin\Debug\apForca.exe
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\bin\Debug\apForca.pdb
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\obj\Debug\apForca.csprojAssemblyReference.cache
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\obj\Debug\apForca.Form1.resources
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\obj\Debug\apForca.Properties.Resources.resources
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\obj\Debug\apForca.csproj.GenerateResource.cache
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\obj\Debug\apForca.csproj.CoreCompileInputs.cache
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\obj\Debug\apForca.exe
+C:\Users\cotuca\Desktop\Cotuca 2K21\Chico\Projeto3\apForca\apForca\apForca\obj\Debug\apForca.pdb
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\bin\Debug\apForca.exe.config
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\bin\Debug\apForca.exe
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\bin\Debug\apForca.pdb
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\obj\Debug\apForca.csprojAssemblyReference.cache
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\obj\Debug\apForca.Form1.resources
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\obj\Debug\apForca.Properties.Resources.resources
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\obj\Debug\apForca.csproj.GenerateResource.cache
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\obj\Debug\apForca.csproj.CoreCompileInputs.cache
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\obj\Debug\apForca.exe
+C:\Users\cotuca\Downloads\apForca\apForca\apForca\apForca\obj\Debug\apForca.pdb
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\bin\Debug\apForca.exe.config
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\bin\Debug\apForca.exe
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\bin\Debug\apForca.pdb
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\obj\Debug\apForca.csprojAssemblyReference.cache
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\obj\Debug\apForca.Form1.resources
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\obj\Debug\apForca.Properties.Resources.resources
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\obj\Debug\apForca.csproj.GenerateResource.cache
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\obj\Debug\apForca.csproj.CoreCompileInputs.cache
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\obj\Debug\apForca.exe
+C:\Users\cotuca\Desktop\Cotuca 2K21\apForca\apForca\apForca\apForca\obj\Debug\apForca.pdb
+C:\Users\cotuca\Downloads\apForca\apForca\bin\Debug\apForca.exe.config
+C:\Users\cotuca\Downloads\apForca\apForca\bin\Debug\apForca.exe
+C:\Users\cotuca\Downloads\apForca\apForca\bin\Debug\apForca.pdb
+C:\Users\cotuca\Downloads\apForca\apForca\obj\Debug\apForca.csprojAssemblyReference.cache
+C:\Users\cotuca\Downloads\apForca\apForca\obj\Debug\apForca.Form1.resources
+C:\Users\cotuca\Downloads\apForca\apForca\obj\Debug\apForca.Properties.Resources.resources
+C:\Users\cotuca\Downloads\apForca\apForca\obj\Debug\apForca.csproj.GenerateResource.cache
+C:\Users\cotuca\Downloads\apForca\apForca\obj\Debug\apForca.csproj.CoreCompileInputs.cache
+C:\Users\cotuca\Downloads\apForca\apForca\obj\Debug\apForca.exe
+C:\Users\cotuca\Downloads\apForca\apForca\obj\Debug\apForca.pdb
